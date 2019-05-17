@@ -1,9 +1,9 @@
 ## Baking a classic chocolate cake
 
-You can use the [editor on GitHub](https://github.com/ShwetaNaresh/shwetanaresh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+A chocolate cake is an all time favorite dessert that just tickles the taste buds and sets the mouth to water.
+And then how about a scoop of vanilla icecream with melted hot chocolate along side..........yummmm, isn't it!!! 
+I am sure you must have already visualized a well decorated dessert plate in your hand, while you watch the End Game!
+ 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
